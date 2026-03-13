@@ -1,0 +1,51 @@
+question,answer
+What is Artificial Intelligence?,Artificial Intelligence is the simulation of human intelligence in machines.
+What is Machine Learning?,Machine Learning is a subset of AI that allows machines to learn from data.
+What is Deep Learning?,Deep Learning is a subset of machine learning based on neural networks.
+What is Python?,Python is a popular programming language used for AI and data science.
+What is Flask?,Flask is a lightweight web framework used to build web applications in Python.
+What is TF-IDF?,TF-IDF is a technique used to evaluate how important a word is in a document.
+What is Natural Language Processing?,NLP is a field of AI that focuses on interaction between computers and human language.
+What is a dataset?,A dataset is a collection of related data used for training machine learning models.
+What is a model in machine learning?,A model is a program trained on data to make predictions or decisions.
+What is supervised learning?,Supervised learning is a machine learning approach using labeled data.
+What is unsupervised learning?,Unsupervised learning finds patterns in unlabeled data.
+What is reinforcement learning?,Reinforcement learning trains models using rewards and penalties.
+What is data preprocessing?,It is the process of cleaning and preparing data before training a model.
+What is feature engineering?,Feature engineering is creating useful input variables for machine learning models.
+What is overfitting?,Overfitting occurs when a model performs well on training data but poorly on new data.
+What is underfitting?,Underfitting occurs when a model cannot capture patterns in the data.
+What is accuracy?,Accuracy measures how often a model makes correct predictions.
+What is precision?,Precision measures how many predicted positives are actually correct.
+What is recall?,Recall measures how many actual positives were correctly predicted.
+What is F1 score?,F1 score is the harmonic mean of precision and recall.
+What is a neural network?,A neural network is a system of algorithms inspired by the human brain.
+What is a chatbot?,A chatbot is a software application that simulates human conversation.
+What is cosine similarity?,Cosine similarity measures similarity between two text vectors.
+What is data science?,Data science combines statistics, programming, and domain knowledge to analyze data.
+What is big data?,Big data refers to extremely large datasets that require special tools to process.
+What is cloud computing?,Cloud computing provides computing resources over the internet.
+What is Git?,Git is a version control system used to track code changes.
+What is GitHub?,GitHub is a platform to host and collaborate on code repositories.
+What is an API?,An API allows software applications to communicate with each other.
+What is a web application?,A web application runs on a web server and is accessed through a browser.
+What is HTML?,HTML is the standard language used to create web pages.
+What is CSS?,CSS is used to style and design web pages.
+What is JavaScript?,JavaScript is used to make web pages interactive.
+What is a database?,A database is an organized collection of structured data.
+What is SQL?,SQL is a language used to manage and query databases.
+What is pandas in Python?,Pandas is a Python library used for data manipulation and analysis.
+What is NumPy?,NumPy is a Python library for numerical computing.
+What is scikit-learn?,Scikit-learn is a machine learning library in Python.
+What is data visualization?,Data visualization represents data using graphs and charts.
+What is matplotlib?,Matplotlib is a Python library used for plotting graphs.
+What is seaborn?,Seaborn is a Python library for statistical data visualization.
+What is an algorithm?,An algorithm is a step-by-step procedure to solve a problem.
+What is training data?,Training data is used to train machine learning models.
+What is testing data?,Testing data is used to evaluate model performance.
+What is validation data?,Validation data helps tune model parameters.
+What is automation?,Automation is using technology to perform tasks without human intervention.
+What is computer vision?,Computer vision allows machines to interpret images and videos.
+What is generative AI?,Generative AI creates new content such as text, images, or code.
+What is prompt engineering?,Prompt engineering is designing prompts to guide AI models.
+What is AI ethics?,AI ethics focuses on responsible and fair use of AI technologies.
