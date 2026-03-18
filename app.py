@@ -6,7 +6,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 app = Flask(__name__)
 
 # Load dataset
-data = pd.read_csv("dataset.csv")
+data = pd.read_csv("dataset.csv",on_bad_lines='skip')
 
 questions = data["question"]
 answers = data["answer"]
