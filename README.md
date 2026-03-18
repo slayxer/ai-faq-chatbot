@@ -65,3 +65,10 @@ Open browser
 
 http://127.0.0.1:5000
 
+## 📸 Screenshots
+
+### Home Screen
+![Home Screen](assets/home.png)
+
+### Chatbot in Action
+![Chat in Action](assets/chat.png)
